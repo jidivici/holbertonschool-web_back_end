@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Asynchronous generator that yields random numbers."""
 import asyncio
 import random

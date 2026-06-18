@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Measures the total execution time for wait_n."""
 import asyncio
 import time

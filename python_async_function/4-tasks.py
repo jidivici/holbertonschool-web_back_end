@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """Spawns task_wait_random n times and returns list of delays."""
 import asyncio
 from typing import List

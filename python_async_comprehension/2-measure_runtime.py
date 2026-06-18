@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Measures the total runtime of async_comprehension executed in parallel."""
 import asyncio
 import time

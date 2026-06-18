@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Concurrent coroutines that spawn wait_random n times."""
 import asyncio
 from typing import List
